@@ -10,8 +10,11 @@ Hello and Welcome
 - Also here we use jest it's testing framework foucus on simplicity, it's library like (TestNG OR JUnit), so we need to install it also using this command >> npm install -D jest
 - To use the **Visual Testing** you have to do the following steps 
    1 - register here >> https://applitools.com/
+   
    2 - Get your API Key 
+   
    3 - Use this command to set your Key >> set APLITOOLS_API_KEY = <YOUR_KEY>
+   
    4 - Install the ApplTools dependency using this command >> npm i -D @applitools/eyes-playwright
    
    
