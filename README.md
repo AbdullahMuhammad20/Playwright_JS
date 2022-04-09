@@ -20,7 +20,7 @@ Hello and Welcome
    
    
 **Notes**
-- To run any file to see the result, just write this command >> node <fileName>
+- To run any file to see the result, just write this command >> node fileName
 - You can run the POM example using >> npm test
   
   
