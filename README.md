@@ -8,7 +8,8 @@ Hello and Welcome
 - Then we need to install **Playwright** now ;) 
      using this command >> npm i -D playwright
 - Also here we use jest it's testing framework foucus on simplicity, it's library like (TestNG OR JUnit), so we need to install it also using this command >> npm install -D jest
-- To use the **Visual Testing** you have to do the following steps 
+- To use the **Visual Testing** you have to do the following steps:-
+
    1 - register here >> https://applitools.com/
    
    2 - Get your API Key 
